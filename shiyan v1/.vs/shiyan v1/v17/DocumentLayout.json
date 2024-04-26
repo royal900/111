@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\11939\\source\\repos\\shiyan v1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46C0CE2C-70A3-4D65-9AA1-93745DA1C445}|shiyan v1\\shiyan v1.vcxproj|C:\\Users\\11939\\source\\repos\\shiyan v1\\shiyan v1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46C0CE2C-70A3-4D65-9AA1-93745DA1C445}|shiyan v1\\shiyan v1.vcxproj|solutionrelative:shiyan v1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C0CE2C-70A3-4D65-9AA1-93745DA1C445}|shiyan v1\\shiyan v1.vcxproj|C:\\Users\\11939\\source\\repos\\shiyan v1\\shiyan v1\\Compress.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46C0CE2C-70A3-4D65-9AA1-93745DA1C445}|shiyan v1\\shiyan v1.vcxproj|solutionrelative:shiyan v1\\Compress.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C0CE2C-70A3-4D65-9AA1-93745DA1C445}|shiyan v1\\shiyan v1.vcxproj|C:\\Users\\11939\\source\\repos\\shiyan v1\\shiyan v1\\Huffman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46C0CE2C-70A3-4D65-9AA1-93745DA1C445}|shiyan v1\\shiyan v1.vcxproj|solutionrelative:shiyan v1\\Huffman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C0CE2C-70A3-4D65-9AA1-93745DA1C445}|shiyan v1\\shiyan v1.vcxproj|C:\\Users\\11939\\source\\repos\\shiyan v1\\shiyan v1\\Huffman.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46C0CE2C-70A3-4D65-9AA1-93745DA1C445}|shiyan v1\\shiyan v1.vcxproj|solutionrelative:shiyan v1\\Huffman.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C0CE2C-70A3-4D65-9AA1-93745DA1C445}|shiyan v1\\shiyan v1.vcxproj|C:\\Users\\11939\\source\\repos\\shiyan v1\\shiyan v1\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46C0CE2C-70A3-4D65-9AA1-93745DA1C445}|shiyan v1\\shiyan v1.vcxproj|solutionrelative:shiyan v1\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C0CE2C-70A3-4D65-9AA1-93745DA1C445}|shiyan v1\\shiyan v1.vcxproj|C:\\Users\\11939\\source\\repos\\shiyan v1\\shiyan v1\\test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46C0CE2C-70A3-4D65-9AA1-93745DA1C445}|shiyan v1\\shiyan v1.vcxproj|solutionrelative:shiyan v1\\test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C0CE2C-70A3-4D65-9AA1-93745DA1C445}|shiyan v1\\shiyan v1.vcxproj|C:\\Users\\11939\\source\\repos\\shiyan v1\\shiyan v1\\Compress.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46C0CE2C-70A3-4D65-9AA1-93745DA1C445}|shiyan v1\\shiyan v1.vcxproj|solutionrelative:shiyan v1\\Compress.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Compress.cpp",
+              "DocumentMoniker": "C:\\Users\\11939\\source\\repos\\shiyan v1\\shiyan v1\\Compress.cpp",
+              "RelativeDocumentMoniker": "shiyan v1\\Compress.cpp",
+              "ToolTip": "C:\\Users\\11939\\source\\repos\\shiyan v1\\shiyan v1\\Compress.cpp",
+              "RelativeToolTip": "shiyan v1\\Compress.cpp",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAwE0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-01T08:09:20.313Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Huffman.cpp",
+              "DocumentMoniker": "C:\\Users\\11939\\source\\repos\\shiyan v1\\shiyan v1\\Huffman.cpp",
+              "RelativeDocumentMoniker": "shiyan v1\\Huffman.cpp",
+              "ToolTip": "C:\\Users\\11939\\source\\repos\\shiyan v1\\shiyan v1\\Huffman.cpp",
+              "RelativeToolTip": "shiyan v1\\Huffman.cpp",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAwDwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-01T07:02:40.948Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "test.h",
+              "DocumentMoniker": "C:\\Users\\11939\\source\\repos\\shiyan v1\\shiyan v1\\test.h",
+              "RelativeDocumentMoniker": "shiyan v1\\test.h",
+              "ToolTip": "C:\\Users\\11939\\source\\repos\\shiyan v1\\shiyan v1\\test.h",
+              "RelativeToolTip": "shiyan v1\\test.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-07T11:51:20.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\11939\\source\\repos\\shiyan v1\\shiyan v1\\test.cpp",
+              "RelativeDocumentMoniker": "shiyan v1\\test.cpp",
+              "ToolTip": "C:\\Users\\11939\\source\\repos\\shiyan v1\\shiyan v1\\test.cpp",
+              "RelativeToolTip": "shiyan v1\\test.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T11:51:01.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Compress.h",
+              "DocumentMoniker": "C:\\Users\\11939\\source\\repos\\shiyan v1\\shiyan v1\\Compress.h",
+              "RelativeDocumentMoniker": "shiyan v1\\Compress.h",
+              "ToolTip": "C:\\Users\\11939\\source\\repos\\shiyan v1\\shiyan v1\\Compress.h",
+              "RelativeToolTip": "shiyan v1\\Compress.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-01T08:09:04.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Huffman.h",
+              "DocumentMoniker": "C:\\Users\\11939\\source\\repos\\shiyan v1\\shiyan v1\\Huffman.h",
+              "RelativeDocumentMoniker": "shiyan v1\\Huffman.h",
+              "ToolTip": "C:\\Users\\11939\\source\\repos\\shiyan v1\\shiyan v1\\Huffman.h",
+              "RelativeToolTip": "shiyan v1\\Huffman.h",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-01T06:57:01.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\11939\\source\\repos\\shiyan v1\\shiyan v1\\Main.cpp",
+              "RelativeDocumentMoniker": "shiyan v1\\Main.cpp",
+              "ToolTip": "C:\\Users\\11939\\source\\repos\\shiyan v1\\shiyan v1\\Main.cpp",
+              "RelativeToolTip": "shiyan v1\\Main.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-01T06:29:32.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

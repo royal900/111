@@ -1,0 +1,14 @@
+﻿  Compress.cpp
+C:\Users\11939\source\repos\shiyan v1\shiyan v1\test.h(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“Compress.cpp”)
+  
+C:\Users\11939\source\repos\shiyan v1\shiyan v1\Compress.cpp(51,23): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\11939\source\repos\shiyan v1\shiyan v1\Compress.cpp(152,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Huffman.cpp
+  Main.cpp
+  test.cpp
+C:\Users\11939\source\repos\shiyan v1\shiyan v1\test.h(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“test.cpp”)
+  
+  正在生成代码...
+  shiyan v1.vcxproj -> C:\Users\11939\source\repos\shiyan v1\x64\Debug\shiyan v1.exe
